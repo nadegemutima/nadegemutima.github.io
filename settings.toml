@@ -137,8 +137,21 @@ title = ""
 description = ""
 video = ""
 date = ""
-category = ""
+category = "photojournalism"
 
+[[work]]
+title = ""
+description = ""
+video = ""
+date = ""
+category = "Audio"
+
+[[work]]
+title = ""
+description = ""
+video = ""
+date = ""
+category = "Narrative"
 
 # ============================================================
 #  OPTIONAL EXTRAS — colors and fonts
